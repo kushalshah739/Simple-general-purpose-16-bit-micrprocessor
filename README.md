@@ -1,4 +1,4 @@
-# Simple general purpose 16 bit micrprocessor
+# Simple general purpose 16-bit micrprocessor
 
 - Description: Programmed a microprocessor in VHDL to compute simple arithmetic calculations of binary digits. Generated waveforms and drew schematics of the circuits in Simulink.   Displayed it using Block Schematic File and SSEG display on an Alterra Chip. 
 
